@@ -1,0 +1,224 @@
+[
+  {
+    "id": "10",
+    "sku": "asdf132",
+    "name": "VortexGrip VR Headset",
+    "price": 639.99,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 15,
+    "image": [
+      "/assets/img/product/electronics/VRHeadset1.jpg",
+      "/assets/img/product/electronics/VRHeadset2.jpg",
+      "/assets/img/product/electronics/VRHeadset3.jpg",
+      "/assets/img/product/electronics/VRHeadset4.jpg",
+      "/assets/img/product/electronics/VRHeadset5.jpg"
+    ],
+    "shortDescription": "Experience immersive virtual reality like never before with the VortexGrip VR Headset. This high-quality headset features 360-degree head tracking, crystal-clear display, and comfortable design for extended use.",
+    "fullDescription": "The VortexGrip VR Headset is a high-quality virtual reality headset designed to provide users with an immersive VR experience. The headset features a comfortable design with padded straps and a lightweight frame that ensures extended use without causing discomfort. It is equipped with 360-degree head tracking, which allows users to move their head around and interact with the virtual environment. The tracking system is highly accurate and provides smooth movements, which adds to the overall realism of the experience. The display of the VortexGrip VR Headset is crystal clear, with a high resolution and a wide field of view that enhances the user's immersion in the virtual environment. The display is also fast and responsive, which reduces motion sickness and lag."
+  },
+  {
+    "id": "11",
+    "sku": "asdf133",
+    "name": "AirStream Smart Speaker",
+    "price": 234.99,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "saleCount": 190,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/electronics/SmartSpeak1.jpg",
+      "/assets/img/product/electronics/SmartSpeak2.jpg",
+      "/assets/img/product/electronics/SmartSpeak3.jpg",
+      "/assets/img/product/electronics/SmartSpeak4.jpg",
+      "/assets/img/product/electronics/SmartSpeak5.jpg"
+    ],
+    "shortDescription": " The AirStream Smart Speaker is a wireless speaker with smart voice control, allowing you to play music, check the weather, and control your smart home devices with ease. The sleek design fits seamlessly into any room.",
+    "fullDescription": "The AirStream Smart Speaker is a high-quality wireless speaker that comes equipped with smart voice control. The speaker is designed to provide users with an exceptional audio experience, with clear and crisp sound quality that fills the room. It is compatible with a wide range of devices, including smartphones, tablets, and laptops. It connects seamlessly using Bluetooth or Wi-Fi, and it can be controlled using voice commands or a smartphone app. The smart voice control feature allows users to control the speaker and other smart home devices using their voice. This includes playing music, adjusting the volume, checking the weather, and controlling smart lights and other devices."
+  },
+  {
+    "id": "12",
+    "sku": "asdf134",
+    "name": "SolarWave Portable Charger",
+    "price": 24.99,
+    "discount": 20,
+    "new": true,
+    "rating": 3,
+    "saleCount": 90,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 20,
+    "image": [
+      "/assets/img/product/electronics/Port1.jpg",
+      "/assets/img/product/electronics/Port2.jpg",
+      "/assets/img/product/electronics/Port3.jpg",
+      "/assets/img/product/electronics/Port4.jpg",
+      "/assets/img/product/electronics/Port5.jpg"
+    ],
+    "shortDescription": "Never run out of power again with the SolarWave Portable Charger. This high-capacity power bank charges your devices using solar power, making it perfect for outdoor adventures or emergency situations.",
+    "fullDescription": "The SolarWave Portable Charger is a high-capacity portable charger that utilizes solar power to recharge its battery. It is perfect for outdoor enthusiasts and travelers who need a reliable power source for their electronic devices. The SolarWave Portable Charger features a durable and waterproof design, making it ideal for use in harsh environments. It also includes a built-in LED light for added convenience."
+  },
+  {
+    "id": "13",
+    "sku": "asdf135",
+    "name": "SonicBoom Gaming Mouse",
+    "price": 54.99,
+    "discount": 30,
+    "new": false,
+    "rating": 4,
+    "saleCount": 100,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 40,
+    "image": [
+      "/assets/img/product/electronics/Mouse1 (1).jpg",
+      "/assets/img/product/electronics/Mouse2 (1).jpg",
+      "/assets/img/product/electronics/Mouse3 (1).jpg",
+      "/assets/img/product/electronics/Mouse4 (1).jpg",
+      "/assets/img/product/electronics/Mouse5 (1).jpg"
+    ],
+    "shortDescription": "The SonicBoom Gaming Mouse is designed for serious gamers who demand precision and speed. With its customizable buttons, high DPI settings, and ergonomic design, you can dominate the competition.",
+    "fullDescription": "The SonicBoom Gaming Mouse is a high-performance gaming mouse that is designed to provide gamers with a competitive edge. It features a responsive and accurate sensor, customizable RGB lighting, and adjustable weight for a comfortable and personalized gaming experience. The SonicBoom Gaming Mouse also includes programmable buttons that can be customized to suit each user's needs."
+  },
+  {
+    "id": "14",
+    "sku": "asdf136",
+    "name": "BeamMeUp Wireless Earbuds",
+    "price": 99.99,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "saleCount": 120,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 45,
+    "image": [
+      "/assets/img/product/electronics/eb1.jpg",
+      "/assets/img/product/electronics/eb2.jpg",
+      "/assets/img/product/electronics/eb3.jpg",
+      "/assets/img/product/electronics/eb4.jpg",
+      "/assets/img/product/electronics/eb5.jpg"
+    ],
+    "shortDescription": "The BeamMeUp Wireless Earbuds offer high-quality sound and noise cancellation in a compact and comfortable design. With their wireless connectivity and long battery life, you can listen to music or take calls on-the-go.",
+    "fullDescription": "The BeamMeUp Wireless Earbuds are high-quality Bluetooth earbuds that provide users with an exceptional audio experience. They are designed to provide clear and crisp sound quality that rivals wired earbuds, and they offer the convenience and freedom of wireless connectivity. The BeamMeUp Wireless Earbuds feature a comfortable and secure fit that is perfect for use during physical activities. They come with multiple earbud tips of different sizes to ensure a perfect fit for all users. The earbuds also include touch controls that allow users to control playback, adjust volume, and take calls without needing to take out their device."
+  },
+  {
+    "id": "15",
+    "sku": "asdf137",
+    "name": "WarpDrive Gaming Laptop",
+    "price": 1799.99,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 20,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 5,
+    "image": [
+      "/assets/img/product/electronics/laptop1.jpg",
+      "/assets/img/product/electronics/laptop2.jpg",
+      "/assets/img/product/electronics/laptop3.jpg",
+      "/assets/img/product/electronics/laptop4.jpg",
+      "/assets/img/product/electronics/laptop5.jpg"
+    ],
+    "shortDescription": "The WarpDrive Gaming Laptop delivers lightning-fast performance and stunning graphics for an immersive gaming experience. Its sleek design and advanced cooling system make it perfect for gaming on-the-go.",
+    "fullDescription": "The WarpDrive Gaming Laptop is a high-performance gaming laptop that features the latest hardware components for maximum performance. It includes a powerful processor, high-end graphics card, and fast solid-state drive (SSD) storage for lightning-fast load times. The WarpDrive Gaming Laptop also features a high-refresh-rate display for smooth and fluid gameplay."
+  },
+  {
+    "id": "16",
+    "sku": "asdf138",
+    "name": "SkyView Drone",
+    "price": 749.99,
+    "discount": 20,
+    "new": true,
+    "rating": 5,
+    "saleCount": 25,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 7,
+    "image": [
+      "/assets/img/product/electronics/drone1 (1).jpg",
+      "/assets/img/product/electronics/drone2 (1).jpg",
+      "/assets/img/product/electronics/drone3 (1).jpg",
+      "/assets/img/product/electronics/drone4 (1).jpg",
+      "/assets/img/product/electronics/drone5 (1).jpg"
+    ],
+    "shortDescription": "The SkyView Drone captures breathtaking aerial footage with its high-definition camera and stable flight controls. With its intuitive controls and long battery life, you can explore the world from above.",
+    "fullDescription": "The SkyView Drone is a high-quality drone that is perfect for aerial photography and videography. It features a high-definition camera that captures stunning photos and videos from above. The SkyView Drone also includes intelligent flight modes that make it easy to capture professional-grade footage."
+  },
+  {
+    "id": "17",
+    "sku": "asdf139",
+    "name": "LaserLink Wireless Keyboard",
+    "price": 32.5,
+    "discount": 10,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 6,
+    "image": [
+      "/assets/img/product/electronics/keyboard3.jpg",
+      "/assets/img/product/electronics/keyboard4.jpg",
+      "/assets/img/product/electronics/keyboard2.jpg",
+      "/assets/img/product/electronics/keyboard1.jpg",
+      "/assets/img/product/electronics/keyboard5.jpg"
+    ],
+    "shortDescription": " The LaserLink Wireless Keyboard offers precision typing and ergonomic design for a comfortable typing experience. Its wireless connectivity and long battery life make it perfect for use with laptops and tablets.",
+    "fullDescription": "The LaserLink Wireless Keyboard is a high-quality wireless keyboard that provides a reliable and responsive typing experience. It features a sleek and modern design and includes a built-in touchpad for added convenience. The LaserLink Wireless Keyboard connects seamlessly to compatible devices using Bluetooth or a USB receiver."
+  },
+  {
+    "id": "42",
+    "sku": "asdf164",
+    "name": "BlazeFire Gaming Monitor",
+    "price": 179.99,
+    "discount": 20,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 7,
+    "image": [
+      "/assets/img/product/electronics/Moniter1.jpg",
+      "/assets/img/product/electronics/Moniter2.jpg",
+      "/assets/img/product/electronics/Moniter3.jpg",
+      "/assets/img/product/electronics/Moniter4.jpg",
+      "/assets/img/product/electronics/Moniter5.jpg"
+    ],
+    "shortDescription": "The BlazeFire Gaming Monitor delivers stunning visuals and fast refresh rates for an immersive gaming experience. Its slim design and adjustable stand make it perfect for any gaming setup.",
+    "fullDescription": "The BlazeFire Gaming Monitor is a high-performance gaming monitor that features a fast refresh rate and low input lag for an optimal gaming experience. It includes a high-definition display that delivers stunning visuals, and it features adjustable settings to suit each user's preferences. The BlazeFire Gaming Monitor also includes multiple input ports for connecting to a wide range of devices."
+  },
+  {
+    "id": "43",
+    "sku": "asdf165",
+    "name": "PixelPrint Photo Printer ",
+    "price": 346.99,
+    "discount": 10,
+    "new": false,
+    "rating": 5,
+    "saleCount": 5,
+    "category": ["electronics"],
+    "tag": ["electronics"],
+    "stock": 6,
+    "image": [
+      "/assets/img/product/electronics/printer1.jpg",
+      "/assets/img/product/electronics/printer2.jpg",
+      "/assets/img/product/electronics/printer3.jpg",
+      "/assets/img/product/electronics/printer4.jpg",
+      "/assets/img/product/electronics/printer5.jpg"
+    ],
+    "shortDescription": "The PixelPrint Photo Printer lets you print high-quality photos directly from your smartphone using Bluetooth or Wi-Fi connectivity. Its compact size and easy-to-use controls.",
+    "fullDescription": "The PixelPrint Photo Printer is a portable and easy-to-use photo printer that allows users to print high-quality photos from their smartphone or tablet. It includes a rechargeable battery for added convenience, and it features a compact and lightweight design that makes it easy to take on the go. The PixelPrint Photo Printer uses advanced printing technology to produce sharp and vibrant photos. Overall, these products offer unique features and benefits that cater to specific needs and preferences. They are all designed with high-quality components and advanced technology to provide users with the best possible experience. Whether you are a gamer, photographer, or traveler, there is a product on this list that will suit your needs."
+    
+  }
+
+]
